@@ -1,0 +1,20 @@
+{
+  "name": "kobe",
+  "version": "0.0.0",
+  "description": "a node and express-based blog engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kevinohara80/kobe.git"
+  },
+  "keywords": [
+    "blog",
+    "express",
+    "cms"
+  ],
+  "author": "Kevin O'Hara",
+  "license": "MIT"
+}
